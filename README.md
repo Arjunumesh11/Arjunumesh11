@@ -19,23 +19,6 @@ Here are some quick things about me:
 - :relaxed: I like to listen to podcast Joe Rogan in my favourite
 ---
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=VScode-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Nodejs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Expressjs-informational?style=flat&logo=Expressjs&logoColor=white&color=2bbc8a)
-
----
-
-
-
-## Blender
-
-I like 3D modeling and Blender is one of my favourite software.Blender is a free, cool and open source 3D creation suite I will recommend everyone to try it!
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
