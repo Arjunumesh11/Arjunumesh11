@@ -10,6 +10,13 @@
 
 My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronics and Communication of NIT Calicut.You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+Here are some quick things about me:
+
+-
+- 💻 I enjoy programming a lot.
+- ⚡ I love vscode very much.I dind ability to collapse section of code very helpfull
+- 😀 I enjoy creating 3D models my super heros.
+- :relaxed: I like to listen to podcast Joe Rogan in my favourite
 ---
 
 ## 🔧 Technologies & Tools
@@ -23,6 +30,10 @@ My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronic
 ![](https://img.shields.io/badge/Code-Expressjs-informational?style=flat&logo=Expressjs&logoColor=white&color=2bbc8a)
 
 ---
+
+<p>
+  <a href="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png"><img width="250" align='right' src="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png?raw=true"></a>
+</p>
 
 ## Blender
 
