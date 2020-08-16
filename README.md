@@ -21,7 +21,7 @@ My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronic
 ![](https://img.shields.io/badge/Code-Expressjs-informational?style=flat&logo=Expressjs&logoColor=white&color=2bbc8a)
 
 <p>
-  <a href="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png"><img width="150" align='right' src="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png?raw=true"></a>
+  <a href="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png"><img width="250" align='right' src="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png?raw=true"></a>
 </p>
 
 ## Blender
