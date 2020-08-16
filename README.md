@@ -15,7 +15,7 @@ Here are some quick things about me:
 
 - 💻 I enjoy programming a lot.
 - ⚡ I love vscode very much.I find ability to collapse section of code very helpfull
-- 😀 I enjoy creating 3D models my super heros.
+- 😀 I enjoy creating 3D models of my super heros.
 - :relaxed: I like to listen to podcast Joe Rogan in my favourite
 ---
 
@@ -35,7 +35,7 @@ Here are some quick things about me:
 
 ## Blender
 
-I like 3D modeling and Blender is one my favourite software.Blender is a free, cool and open source 3D creation suite I will recommend everyone to try it!
+I like 3D modeling and Blender is one of my favourite software.Blender is a free, cool and open source 3D creation suite I will recommend everyone to try it!
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
