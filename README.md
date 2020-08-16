@@ -12,7 +12,7 @@ My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronic
 
 Here are some quick things about me:
 
--
+
 - 💻 I enjoy programming a lot.
 - ⚡ I love vscode very much.I find ability to collapse section of code very helpfull
 - 😀 I enjoy creating 3D models my super heros.
