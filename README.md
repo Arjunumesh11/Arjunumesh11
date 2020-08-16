@@ -19,9 +19,13 @@ My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronic
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Expressjs-informational?style=flat&logo=Expressjs&logoColor=white&color=2bbc8a)
+
+<p>
+  <a href="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png"><img width="400" align='right' src="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png?raw=true"></a>
+</p>
 ## Blender
 
-I like 3D modeling and Blender is one my favourite software.Blender is a free, cool and open source 3D creation suite I will recommend everyone to try it|
+I like 3D modeling and Blender is one my favourite software.Blender is a free, cool and open source 3D creation suite I will recommend everyone to try it!
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
