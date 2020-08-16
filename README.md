@@ -1,4 +1,10 @@
 [![Header](https://github.com/Arjunumesh11/Arjunumesh11/blob/master/iron_man_blender.png "Header")](https://github.com/Arjunumesh11/Arjunumesh11)
+<p align='center'>
+
+<a href="https://twitter.com/ArjunUS11"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/arjun_us11"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href=" https://in.linkedin.com/in/arjun-u-s-304363166"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 # Hi people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronics and Communication of NIT Calicut.You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
