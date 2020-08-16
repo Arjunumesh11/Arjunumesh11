@@ -10,6 +10,8 @@
 
 My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronics and Communication of NIT Calicut.You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+---
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=VScode-idea&logoColor=white&color=2bbc8a)
@@ -19,6 +21,8 @@ My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronic
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Expressjs-informational?style=flat&logo=Expressjs&logoColor=white&color=2bbc8a)
+
+---
 
 <p>
   <a href="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png"><img width="250" align='right' src="https://github.com/Arjunumesh11/Arjunumesh11/blob/master/head.png?raw=true"></a>
