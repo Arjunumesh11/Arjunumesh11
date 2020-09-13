@@ -14,7 +14,7 @@ Here are some quick things about me:
 
 
 - 💻 I enjoy programming a lot.
-- ⚡ I love vscode very much.I find ability to collapse section of code very helpfull
+- ⚡ I love vscode very much.
 - 😀 I enjoy creating 3D models of my super heros.
 - :relaxed: I like to listen to podcast Joe Rogan in my favourite
 ---
