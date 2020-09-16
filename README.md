@@ -13,11 +13,11 @@ My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronic
 Here are some quick things about me:
 
 
-- 💻 I enjoy programming a lot.
-- ⚡ I love vscode very much.
-- 😀 I enjoy creating 3D models of my super heros.
-- :relaxed: I like to listen to podcast Joe Rogan in my favourite
----
+[//]:# - 💻 I enjoy programming a lot.
+[//]:#- ⚡ I love vscode very much.
+[//]:#- 😀 I enjoy creating 3D models of my super heros.
+[//]:#- :relaxed: I like to listen to podcast Joe Rogan in my favourite
+[//]:#---
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
