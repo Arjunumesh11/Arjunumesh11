@@ -8,7 +8,7 @@
 
 # Hi people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My Name is Arjun and I'm a fourth year Engineering Student at Dept of Electronics and Communication of NIT Calicut.You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 
